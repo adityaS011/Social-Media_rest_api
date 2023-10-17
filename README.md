@@ -1,4 +1,4 @@
-# Social-Media_rest_api
+# Social-Media_rest_api 🚀
 Restful Api's for a social media blog app
 # Blog App REST API
 
@@ -51,4 +51,4 @@ Before you begin, ensure you have met the following requirements:
 
 
 # License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/adityaS011/Social-Media_rest_api/blob/main/LICENSE) file for details.
