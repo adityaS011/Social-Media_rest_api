@@ -51,3 +51,6 @@ DELETE /api/blog/delete/:id
 delete the blog:
 
 Implement user registration and login as needed.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
