@@ -1,6 +1,7 @@
 # Social-Media_rest_api 🚀
 Restful Api's for a social media blog app
-# Blog App REST API
+# This project is open to use by anyone
+![REST API](https://www.devopsschool.com/blog/wp-content/uploads/2020/09/rest-api-1.png)
 
 A RESTful API for a simple blog application using Node.js, Express, and MongoDB.
 
